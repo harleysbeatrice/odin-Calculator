@@ -99,3 +99,10 @@ button {
     font-size:15px;
     font-weight:bold;
 }
+
+#eq {
+    background-color: darkred;
+    color: azure;
+    border:1px solid darkred;
+    border-radius:10px;
+}
