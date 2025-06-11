@@ -52,3 +52,5 @@ clearBtn.addEventListener("click", () => clear());
 clearAllBtn.addEventListener("click", () => clearAll());
 opBtns.forEach(btn => btn.addEventListener("click", () => printOp(btn.textContent)));
 eqBtn.addEventListener("click", () => calculate());
+
+// Keyboard support
